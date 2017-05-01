@@ -1,5 +1,5 @@
 node_modules/
 
 # intellJ
-.idea
+/.idea/
 .DS_Store
