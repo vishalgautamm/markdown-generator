@@ -22,3 +22,5 @@
 ```
 
 #### Enjoy :)
+
+><img src="http://i.imgur.com/CrKI6xr.png">
